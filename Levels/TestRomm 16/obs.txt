@@ -1,0 +1,2 @@
+425,661,838,100,false,1,0,0,70
+0,0,1000,750,1,TestRoom.png,true,below
